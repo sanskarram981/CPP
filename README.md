@@ -28,3 +28,9 @@ and these header files are included to iostream header file.<br>
 cin is used with stream extraction operator (>>).<br>
 cout is used with stream insertion operator (<<).<br>
 </p>
+
+<p>
+string str;<br>
+std::getline(cin,str);<br>
+std::cout<<str;<br>
+</p>
