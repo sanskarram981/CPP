@@ -39,3 +39,7 @@ std::cout<<str;<br>
 <p>Escape seuqence is for formatting and restructuring string</p>
 <h3>Reference Variable</h3>
 <p>When a variable is declared as reference variable then it becomes an alternative mame for an pre-existing variable.</p>
+<h3>Array</h3>
+<h3>2D Array</h3>
+<h3>Arithmetic Operator</h3>
+<h3>Assignment Operator</h3>
