@@ -43,3 +43,7 @@ std::cout<<str;<br>
 <h3>2D Array</h3>
 <h3>Arithmetic Operator</h3>
 <h3>Assignment Operator</h3>
+<h3>Equality Operator</h3>
+<h3>Relational Operator</h3>
+<h3>Logical Operator</h3>
+<h3>Bitwise Operator</h3>
