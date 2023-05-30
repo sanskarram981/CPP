@@ -6,8 +6,7 @@
 3.It is not pure oop langauge because it is also allow functional way of programming.
 <h3>Simple C++ Program</h3>
 <p>
- #include<iostream>
- <br>
+ #include<iostream><br>
  using namespace std;
  <br>
  int main()
