@@ -49,3 +49,5 @@ std::cout<<str;<br>
 <h3>Bitwise Operator</h3>
 <h3>Pre Increment & Decrement Operator</h3>
 <h3>Post Increment & Decrement Operator</h3>
+<h3>Conditional/Ternary Operator</h3> 
+<h3>Sizeof Operator</h3>
