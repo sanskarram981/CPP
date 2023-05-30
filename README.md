@@ -51,5 +51,5 @@ std::cout<<str;<br>
 <h3>Post Increment & Decrement Operator</h3>
 <h3>Conditional/Ternary Operator</h3> 
 <h3>Sizeof Operator</h3>
-<img src="![image](https://github.com/sanskarram981/CPP/assets/71223200/6c354e20-88d3-4686-ad8b-c58ad67b14a1)" alttext="pic">
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/6c354e20-88d3-4686-ad8b-c58ad67b14a1" alttext="pic">
 
