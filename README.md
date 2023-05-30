@@ -19,3 +19,12 @@
     <br>
  }
 </p>
+
+<p>
+cin == console input
+cout == console output
+cin and cout both are the objects of the istream and ostream class respectively , these two class resides inside istream and ostream header files,<br>
+and these header files are included to iostream header file.<br>
+cin is used with stream extraction operator (>>).<br>
+cout is used with stream insertion operator (<<).<br>
+</p>
