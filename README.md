@@ -34,3 +34,8 @@ string str;<br>
 std::getline(cin,str);<br>
 std::cout<<str;<br>
 </p>
+
+<h3>Escape Sequence</h3>
+<p>Escape seuqence is for formatting and restructuring string</p>
+<h3>Reference Variable</h3>
+<p>When a variable is declared as reference variable then it becomes an alternative mame for an pre-existing variable.</p>
