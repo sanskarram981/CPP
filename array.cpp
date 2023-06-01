@@ -17,6 +17,15 @@ void print(int arr[],int n)
     }
     std::cout<<std::endl;
 }
+void printt(int* arr,int n)
+{
+    std::cout<<"the element of the array are : ";
+    for(int i=0;i<n;i++)
+    {
+        std::cout<<*(arr+i)<<" ";
+    }
+    std::cout<<std::endl;
+}
 
 int main()
 {
