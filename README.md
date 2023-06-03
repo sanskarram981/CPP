@@ -62,5 +62,11 @@ std::cout<<str;<br>
 
 
 <h3>Inline Functions</h3>
+<h3>Constructors</h3>
+<p>
+ 1. Deafault Constructor
+ 2. Parameterized Constructor
+ 3. Copy Constructor
+</p>
 
 
