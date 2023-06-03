@@ -68,5 +68,17 @@ std::cout<<str;<br>
  2. Parameterized Constructor
  3. Copy Constructor
 </p>
+<h3>Destructors</h3>
+<h3>Initializer List</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/0e962ebc-9aee-4361-81c1-d8c8c9f629f0">
+<h3>Static Data Member & Static Member Function</h3>
+<p>
+ 1. The static variables are stored in the data segment of the memory. 
+    The data segment is a part of the virtual address space of a program. 
+    All the static variables that do not have an explicit initialization or are initialized to zero are stored in the 
+    uninitialized data segment( also known as the BSS segment).
+ 2. Only static data memnbers are accesible by static member function. 
+</p>
+<h3>Const Data Member</h3>
 
 
