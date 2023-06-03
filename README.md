@@ -82,5 +82,10 @@ std::cout<<str;<br>
    If we try to access the static data member without an explicit definition, the compiler will give an error. 
 </p>
 <h3>Const Data Member</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/152490a6-ce6e-47e8-8f28-8a95c91c8464">
+
+<h3>Reference Data Member</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/7c2939c2-d884-440f-9405-a8d20699878c">
+
 
 
