@@ -78,6 +78,8 @@ std::cout<<str;<br>
     All the static variables that do not have an explicit initialization or are initialized to zero are stored in the 
     uninitialized data segment( also known as the BSS segment).
  2. Only static data memnbers are accesible by static member function. 
+ 3.the static members are only declared in the class declaration. 
+   If we try to access the static data member without an explicit definition, the compiler will give an error. 
 </p>
 <h3>Const Data Member</h3>
 
