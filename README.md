@@ -98,6 +98,29 @@ std::cout<<str;<br>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/3d605ac6-f979-46c4-8994-8b419b2c1c2f">
 <h3>Constant Member Function</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/f3e6b6ee-faff-41cd-ab4b-c35749f71ab2">
+<h3>Structure</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/8195f4fc-1a5c-46be-a5da-04bfa3fa4f70">
+<p>
+ 1. Class members are by default private whereas Structure Members are by default public.
+ 2.
+ struct A
+ {
+ };
+ 
+ struct B:public A
+ {
+ };
+ --------------------------------
+ class A
+ {
+ };
+ 
+ class B:private A
+ {
+ };
+</p>
+<h3>Union</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/29a86a14-9039-4fe2-a9b6-66fe1ca83337">
 
 
 
