@@ -92,6 +92,15 @@ std::cout<<str;<br>
 <p>this pointer can be used with non-static data member only.</p>
 <h3>Friend Function & Friend Class</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/56ab4e70-c71e-407f-ad19-2753ef7c99f1">
+<h3>Encapsulation</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/ab4e886e-fb00-4cef-baf0-06b2b34f35de">
+<h3>Data Hiding</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/3d605ac6-f979-46c4-8994-8b419b2c1c2f">
+<h3>Constant Member Function</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/f3e6b6ee-faff-41cd-ab4b-c35749f71ab2">
+
+
+
 
 
 
