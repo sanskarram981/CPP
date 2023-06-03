@@ -87,5 +87,9 @@ std::cout<<str;<br>
 <h3>Reference Data Member</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/7c2939c2-d884-440f-9405-a8d20699878c">
 
+<h3>this pointer</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/2eeb2496-8a52-421b-9c24-3343c6acb416">
+
+
 
 
