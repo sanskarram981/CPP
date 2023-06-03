@@ -44,5 +44,6 @@ int main()
     //b1.settX(13);
     b1.setX(13);
     std::cout<<b1.getX()<<std::endl;
+    std::cout<<val<<std::endl;
     return 0;
 }
