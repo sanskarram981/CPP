@@ -89,6 +89,10 @@ std::cout<<str;<br>
 
 <h3>this pointer</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/2eeb2496-8a52-421b-9c24-3343c6acb416">
+<p>this pointer can be used with non-static data member only.</p>
+<h3>Friend Function & Friend Class</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/56ab4e70-c71e-407f-ad19-2753ef7c99f1">
+
 
 
 
