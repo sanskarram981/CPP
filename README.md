@@ -128,6 +128,9 @@ std::cout<<str;<br>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/a10d6ecf-11b0-4952-a9b7-f5bea8e22c40">
 <h3>Array Subscript Operator Overloading</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/860237eb-a07c-41d7-b049-9f1e5b7ee159">
+<h3>Overloading of Stream Insertion & Stream Extraction Operator</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/6a7741b4-0207-44de-b44c-e1af4272c87c">
+
 
 
 
