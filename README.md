@@ -137,6 +137,9 @@ std::cout<<str;<br>
 <h3>Overloading new And delete Operator In C++</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/0b4578be-18e0-4adb-bb36-1cfc6b31af73">
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/12397218-5ce6-4e40-92cf-f2e52705fc7a">
+<h3>Inheritance</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/ebf50739-7396-4701-b2dd-d05274d09eab">
+
 
 
 
