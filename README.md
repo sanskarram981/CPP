@@ -139,6 +139,18 @@ std::cout<<str;<br>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/12397218-5ce6-4e40-92cf-f2e52705fc7a">
 <h3>Inheritance</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/ebf50739-7396-4701-b2dd-d05274d09eab">
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/7e61114b-0ffd-47a3-8d29-daaf861759ac">
+<h3>Single Inheritance</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/bd365b3a-e7e0-4cd3-9e83-9202c0c225f7">
+<h3>Single Inheritance</h3>
+<h3>Is a relationship / Has a relationship</h3>
+<h3>MultiLevel Inheritance</h3>
+<h3>Multiple Inheritance</h3>
+<h3>Hierarchical Inheritance</h3>
+<h3>Hybrid Inheritance</h3>
+<h3>Multipath Inheritance</h3>
+
+
 
 
 
