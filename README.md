@@ -131,6 +131,15 @@ std::cout<<str;<br>
 <h3>Overloading of Stream Insertion & Stream Extraction Operator</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/6a7741b4-0207-44de-b44c-e1af4272c87c">
 <h3>Overloading of Assignment Operator</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/886effc9-7958-4230-8e64-851e6e301672">
+<h3>Overloading typecast Operator</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/26cb823a-a0ca-4f5b-8032-d4658362894a">
+<h3>Overloading new And delete Operator In C++</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/0b4578be-18e0-4adb-bb36-1cfc6b31af73">
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/12397218-5ce6-4e40-92cf-f2e52705fc7a">
+
+
+
 
 
 
