@@ -150,6 +150,9 @@ std::cout<<str;<br>
 <h3>Hybrid Inheritance</h3>
 <h3>Multipath Inheritance</h3>
 
+<h3>Function & Class Template</h3>
+<h3>Template Overloading</h3>
+
 
 
 
