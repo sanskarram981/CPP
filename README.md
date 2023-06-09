@@ -154,6 +154,7 @@ std::cout<<str;<br>
     Car has a colour
 </p>
 <h3>MultiLevel Inheritance</h3>
+<p>
   A
   ^
   |
@@ -161,13 +162,16 @@ std::cout<<str;<br>
   ^
   |
   C
+ </p?
 <h3>Multiple Inheritance</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/22f85efa-4d88-4421-b347-13494d84dafe">
 <h3>Hierarchical Inheritance</h3>
+<p>
        A
   
  /  /  |  \  \
 B  C   D   E   F
+</p>
 <h3>Hybrid Inheritance</h3>
 <h3>Multipath Inheritance</h3>
 
