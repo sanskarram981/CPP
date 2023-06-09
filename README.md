@@ -155,13 +155,13 @@ std::cout<<str;<br>
 </p>
 <h3>MultiLevel Inheritance</h3>
 <p>
-  A
-  ^
-  |
-  B
-  ^
-  |
-  C
+  A <br>
+  ^ <br>
+  | <br>
+  B <br>
+  ^ <br>
+  | <br>
+  C <br>
  </p?
 <h3>Multiple Inheritance</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/22f85efa-4d88-4421-b347-13494d84dafe">
