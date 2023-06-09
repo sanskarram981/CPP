@@ -142,11 +142,32 @@ std::cout<<str;<br>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/7e61114b-0ffd-47a3-8d29-daaf861759ac">
 <h3>Single Inheritance</h3>
 <img src="https://github.com/sanskarram981/CPP/assets/71223200/bd365b3a-e7e0-4cd3-9e83-9202c0c225f7">
-<h3>Single Inheritance</h3>
 <h3>Is a relationship / Has a relationship</h3>
+<p>
+ 1. Inheritance - is a relationship
+    Doctor is a human
+    Engineer is a human
+    Police is a human
+ 2. Compostion / Aggregation - has a relationship
+    Human has a heart
+    Car has an engine
+    Car has a colour
+</p>
 <h3>MultiLevel Inheritance</h3>
+  A
+  ^
+  |
+  B
+  ^
+  |
+  C
 <h3>Multiple Inheritance</h3>
+<img src="https://github.com/sanskarram981/CPP/assets/71223200/22f85efa-4d88-4421-b347-13494d84dafe">
 <h3>Hierarchical Inheritance</h3>
+       A
+  
+ /  /  |  \  \
+B  C   D   E   F
 <h3>Hybrid Inheritance</h3>
 <h3>Multipath Inheritance</h3>
 
