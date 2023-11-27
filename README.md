@@ -1,6 +1,8 @@
 <h1>CPP</h1>
+<div style="display:flex;">
 <img src="https://assets.leetcode.com/users/images/c8acfcbc-a03c-42d1-a125-c745fadb6618_1643607973.8599598.gif" alt="alternatetext">
 <img src="https://assets.leetcode.com/users/images/fcda8541-fcd0-44c6-b65a-324c09c95223_1643608046.9153721.gif" alt="alternatetext">
+</div>
 <h3>Features of C++</h3>
 1.C++ is statically typed general purpose compiled programming langauge.<br>
 2.It is nothing but C with extra features like classes.<br>
